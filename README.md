@@ -1,4 +1,4 @@
-# Algoritmo de Tomasulo | Risc-V | Javascript
+# TomSim | Risc-V | Javascript
 
 O projeto é um simulador do Algoritmo de Tomasulo
 
